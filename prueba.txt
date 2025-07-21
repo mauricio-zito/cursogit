@@ -1,1 +1,4 @@
 una modificación al archivo para probar
+
+nueva   característica del software
+nueva 2 características del software 2
